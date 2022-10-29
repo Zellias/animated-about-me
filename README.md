@@ -8,6 +8,6 @@
 
 - Fill Array In Line 56
 
-- Change arrays in line 50
+- Change array in line 50
 
 ਬ Kermit_Xaro#6697
