@@ -53,4 +53,4 @@ setInterval(async () => {
 
 
 
-// LEGACY TEAM | ! ◮ 𝐋𝐚𝐯𝐞𝐧𝐜𝐲 ᴛᴡɪɢ#1989
+// Zellias#0001
